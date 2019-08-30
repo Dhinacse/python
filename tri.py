@@ -5,7 +5,7 @@ def checkValidity(a, b, c):
 		return True		
 a = 3
 b = 4
-c = m
+c = 5
 if checkValidity(a, b, c): 
 	print("yes") 
 else: 
