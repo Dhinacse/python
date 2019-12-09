@@ -1,0 +1,9 @@
+a=[3,5,8,2,4,6]
+b=len(a)//2
+c=int(b)
+d=a[:c]
+e=a[c:]
+d,e.sort()
+f=d+e
+f.sort()
+print(f)
